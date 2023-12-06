@@ -1,0 +1,224 @@
+Results
+
+QBFT - 8 GB 		avg			peak
+
+sequential
+				Mean: 96.68537492902124
+				Standard Deviation: 10.211896229266324
+				Mean: 103.98521748394003
+				Standard Deviation: 9.12809790584352
+threaded 1
+				 Mean: 102.20324727568101
+				Standard Deviation: 6.123011343683894
+				Mean: 104.37435579015342
+				Standard Deviation: 10.361234693402508
+threaded 2
+				Mean: 115.43521189058598
+				Standard Deviation: 8.533949396766312
+				Mean: 120.24313818808567
+				Standard Deviation: 6.4167996184118685
+
+threaded 3
+
+				Mean: 103.71252170867555
+				Standard Deviation: 7.6514130330559755
+				Mean: 109.2860345560011
+				Standard Deviation: 10.452552487764216
+
+
+
+IBFT_8GB
+sequential
+				Mean: 88.61811155633302
+				Standard Deviation: 9.162583016378097
+				Mean: 93.77885006682114
+				Standard Deviation: 8.829558412823138
+threaded 1
+				Mean: 101.59820605967484
+				Standard Deviation: 7.136358136645045
+				Mean: 103.35220245276167
+				Standard Deviation: 7.381158452860294
+threaded 2
+				Mean: 112.65024753131537
+				Standard Deviation: 5.658396989203818
+				Mean: 114.52331599258899
+				Standard Deviation: 4.997395751938968
+threaded 3 
+				Mean: 103.19278505829644
+				Standard Deviation: 6.498999223888256
+				Mean: 106.48342295991718
+				Standard Deviation: 3.902974573880183
+
+
+IBFT_32_GB
+sequential
+				Mean: 130.44317678060926
+				Standard Deviation: 41.38149263660223
+				Mean: 134.13623166311868
+				Standard Deviation: 43.413190509798724
+threaded1 
+				Mean: 178.9985513196977
+				Standard Deviation: 21.50656157604873
+				Mean: 187.31870415222448
+				Standard Deviation: 17.981977734197457
+threaded2 
+				Mean: 196.66380692986772
+				Standard Deviation: 21.537959036917627
+				Mean: 203.60857316776273
+				Standard Deviation: 22.777290410863575
+threaded3
+				Mean: 172.74895312703558
+				Standard Deviation: 28.24766265102131
+				Mean: 185.38078162140187
+				Standard Deviation: 18.658570093829876
+
+
+4-node-IBFT
+sequential
+				Mean: 133.83572837442307
+				Standard Deviation: 14.276619865247481
+				Mean: 142.28863963375622
+				Standard Deviation: 8.514714643799058
+
+threaded1
+				Mean: 136.7715963680028
+				Standard Deviation: 23.97229155183365
+				Mean: 160.1703016442225
+				Standard Deviation: 18.484305487731252
+
+threaded2
+				Mean: 147.4621198229102
+				Standard Deviation: 26.057164848093173
+				Mean: 174.40421654434516
+				Standard Deviation: 14.534019697450772
+threaded3
+				Mean: 131.73655842381905
+				Standard Deviation: 25.250080142813136
+				Mean: 159.0193050996344
+				Standard Deviation: 12.975170796289541
+
+RAFT-8GB
+sequential 
+				Mean: 58.29224211916728
+				Standard Deviation: 20.865896438710628
+				Mean: 65.28383769439465
+				Standard Deviation: 16.691543334383198
+
+threaded1
+				Mean: 63.225988870476904
+				Standard Deviation: 25.94876863753805
+				Mean: 68.75159736389962
+				Standard Deviation: 20.67157138361509
+
+threaded2
+				Mean: 80.38645363231916
+				Standard Deviation: 11.16240305101142
+				Mean: 85.14401459000838
+				Standard Deviation: 7.102526141779648
+
+threaded3
+				Mean: 66.87448156989713
+				Standard Deviation: 18.21083987359756
+				Mean: 73.69845396913178
+				Standard Deviation: 15.07598991523226
+
+QBFT-32GB
+sequential
+				Mean: 156.70189120981962
+				Standard Deviation: 14.734528266209685
+				Mean: 165.1454727535389
+				Standard Deviation: 15.924547634667594
+
+Threaded1
+				Mean: 174.17405159309948
+				Standard Deviation: 30.170879299882895
+				Mean: 172.29910240493473
+				Standard Deviation: 59.81071062333284
+
+Threaded2
+				Mean: 180.47361386883796
+				Standard Deviation: 51.617851220185685
+				Mean: 188.2510871580385
+				Standard Deviation: 51.509293223754355
+
+Threaded3
+				Mean: 184.04709851771858
+				Standard Deviation: 18.941500981192338
+				Mean: 198.27180874306762
+				Standard Deviation: 20.802443278394914
+
+
+RAFT-32 GB
+sequential
+				Mean: 152.65109276017702
+				Standard Deviation: 25.673251080057963
+				Mean: 155.39442188357168
+				Standard Deviation: 25.66377351225544
+
+threaded1
+				Mean: 172.50849276001182
+				Standard Deviation: 18.263862116247857
+				Mean: 181.26271946755028
+				Standard Deviation: 9.987165793985756
+
+threaded2
+				Mean: 193.57519921139516
+				Standard Deviation: 12.750380547041239
+				Mean: 195.98711205965577
+				Standard Deviation: 12.150259319958685
+
+threaded3
+				Mean: 168.50592861810492
+				Standard Deviation: 23.344562631408525
+				Mean: 179.30851135851967
+				Standard Deviation: 12.017138618397333
+
+QBFT- Mutinode
+sequential 
+				Mean: 129.78664382567703
+				Standard Deviation: 31.395046162597538
+				Mean: 143.37568090752046
+				Standard Deviation: 31.948349430465424
+
+theaded1
+				Mean: 152.82359258828762
+				Standard Deviation: 17.305278375082445
+				Mean: 167.08831395324404
+				Standard Deviation: 19.782715153706214
+threaded2
+				Mean: 159.8396219322083
+				Standard Deviation: 29.971862886414492
+				Mean: 178.94187360830801
+				Standard Deviation: 32.067617891992484
+
+threaded3
+				Mean: 161.57556968254912
+				Standard Deviation: 24.48110676153029
+				Mean: 164.4736248283873
+				Standard Deviation: 58.31987718470724
+
+RAFT- multinode
+sequential
+				Mean: 105.94899698881326
+				Standard Deviation: 9.899597237538805
+				Mean: 115.34257711309847
+				Standard Deviation: 9.486584083834511
+
+threaded1
+				Mean: 105.94899698881326
+				Standard Deviation: 9.899597237538805
+				Mean: 115.34257711309847
+				Standard Deviation: 9.486584083834511
+
+threaded2
+				Mean: 132.44780551506983
+				Standard Deviation: 14.920459556351702
+				Mean: 137.4731276660009
+				Standard Deviation: 15.06493555073281
+
+threaded3
+				Mean: 120.78205505729406
+				Standard Deviation: 17.654098998354936
+				Mean: 123.88068700265782
+				Standard Deviation: 18.905091570968356
+
